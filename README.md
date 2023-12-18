@@ -15,6 +15,6 @@ protoc --version
 libprotoc 3.21.12
 ```
 
-On Debian it can be installed with 
-sudo apt-get install protobuf-c-compiler
-sudo apt-get install protobuf-compiler
+On Debian it can be installed with\
+sudo apt-get install protobuf-c-compiler\
+sudo apt-get install protobuf-compiler\
